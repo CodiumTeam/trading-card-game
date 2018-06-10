@@ -1,0 +1,40 @@
+{
+  "name": "trading-card-game",
+  "version": "1.0.0",
+  "description": "In this Kata you will be implementing a rudimentary two-player trading card game. The rules are loosely based on Blizzard Hearthstone.",
+  "main": "src/kata.js",
+  "scripts": {
+    "test": "babel-node node_modules/.bin/jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CodiumTeam/trading-card-game.git"
+  },
+  "keywords": [
+    "kata",
+    "test",
+    "doubles",
+    "mocking",
+    "tdd",
+    "refactor",
+    "refactoring",
+    "clean",
+    "code",
+    "quality"
+  ],
+  "author": "Codium",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodiumTeam/trading-card-game/issues"
+  },
+  "homepage": "https://github.com/CodiumTeam/trading-card-game#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "jasmine": "^3.1.0"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "babel-register": "^6.26.0"
+  }
+}
