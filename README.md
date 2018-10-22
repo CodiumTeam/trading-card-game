@@ -8,7 +8,7 @@ Kata made by [Codium](www.codium.team):
 - Luis Rovirosa
 - Jordi Anguela
 
-## hot to install
+## how to install
     npm install
     
 ## how to test
